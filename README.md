@@ -1,5 +1,5 @@
 # HP Omnibook 300
-
+![](omnibook.jpg)
 
 My __FAVORITE__ computer from my childhood. Second only to my current MacBook Pro.
 
@@ -14,8 +14,10 @@ My __FAVORITE__ computer from my childhood. Second only to my current MacBook Pr
 As you can see, my MacBook can't hold a candle to that trusty Omnibook.
 
 Just look at this mouse! 😍😍😍
+
 ![mouse](omnibook_mouse.jpg)
 
 
+***
 
 *All information taken from [HP Computer Museum](https://www.hpmuseum.net/display_item.php?hw=123)*
