@@ -4,6 +4,7 @@
 My __FAVORITE__ computer from my childhood. Second only to my current MacBook Pro.
 
 ## Specs Compared
+
 |Spec|OmniBook 300|MacBook Pro 2021|
 |---|---|---|
 |CPU|386SXLV CPU|M1 Max|
